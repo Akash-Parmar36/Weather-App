@@ -1,1 +1,1 @@
-This project is weather app aplication that have been made by using React only. I have added a search functionality into this app. By searching the name of place , it provides weather details of that place.
+This project is weather app aplication that have been made by using React + Vite only. I have added a search functionality into this app. By searching the name of place , it provides weather details of that place.
